@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://amol-londhe.firewingtechnology.com/</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/amol-founder-hd.jpg</image:loc>
+      <image:title>Amol Londhe — Founder and Technology Architect at FireWing Technology</image:title>
+      <image:caption>Official portrait of Amol Londhe, Founder &amp; Technology Architect at FireWing Technology</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/logo.png</image:loc>
+      <image:title>Amol Londhe Official Brand Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/realvion.jpg</image:loc>
+      <image:title>RealVion Luxury PropTech Platform Dashboard</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/daamdekho.jpg</image:loc>
+      <image:title>DaamDekho E-Commerce Price Intelligence Platform</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/ai-systems.jpg</image:loc>
+      <image:title>AI &amp; Automation Hub Agent Pipeline Interface</image:title>
+    </image:image>
+  </url>
+</urlset>
