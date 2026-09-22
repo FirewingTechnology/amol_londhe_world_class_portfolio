@@ -3,13 +3,18 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://amol-londhe.firewingtechnology.com/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://amol-londhe.firewingtechnology.com/assets/amol-founder-hd.jpg</image:loc>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/amol-hero-portrait.jpg</image:loc>
       <image:title>Amol Londhe — Founder and Technology Architect at FireWing Technology</image:title>
       <image:caption>Official portrait of Amol Londhe, Founder &amp; Technology Architect at FireWing Technology</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://amol-londhe.firewingtechnology.com/assets/amol-about-portrait.jpg</image:loc>
+      <image:title>Amol Londhe — Executive Founder Portrait</image:title>
+      <image:caption>Executive portrait of Amol Londhe, Founder of FireWing Technology</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://amol-londhe.firewingtechnology.com/assets/logo.png</image:loc>
